@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "test",
+      "lastName": "t",
+      "email": "test@test.com",
+      "mobile": 9876543210,
+      "designation": "test"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "t",
+      "email": "tests",
+      "mobile": 1234567890,
+      "designation": "test"
+    }
+  ],
+  "signup": [
+    {
+      "name": "test",
+      "mobile": 12344565,
+      "email": "test@test.com",
+      "password": "test",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
